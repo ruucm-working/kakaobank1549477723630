@@ -1,0 +1,153 @@
+{
+  "files" : {
+    ".backups/2018-12-20 13.04.16.zip" : {
+      "sha1" : "lOSzK6xfE0jn2Zfta29AD/XWuw8=",
+      "size" : 6384
+    },
+    ".backups/2018-12-20 13.06.53.zip" : {
+      "sha1" : "k3mEOWdRi2l98ndPQHR9JGlmx9s=",
+      "size" : 6384
+    },
+    ".backups/2018-12-20 13.15.05.zip" : {
+      "sha1" : "VkMLzrOZSoXG/vFWGKXRozBGPCw=",
+      "size" : 6338
+    },
+    ".backups/2018-12-20 13.39.23.zip" : {
+      "sha1" : "GwYeEOkugOWJ83fR3127y5/6aKI=",
+      "size" : 6384
+    },
+    ".cache/images/512/0rmQb8Tph0Yi4IBi4chd2l95Slw.png" : {
+      "sha1" : "e2RhZvd3ObUTXNqhQVTGqbXirGQ=",
+      "size" : 110874
+    },
+    ".cache/images/512/F6495OK5xRT1LfWPeIiDjT3plY.png" : {
+      "sha1" : "onCC35u5Udoc9nSSg7nrng2odK0=",
+      "size" : 102780
+    },
+    ".cache/images/512/lRxumXkcsmHN9ACLVup0GcKokc.png" : {
+      "sha1" : "vXMN5pbxDqgdPj8FDciGecdANoc=",
+      "size" : 123184
+    },
+    ".cache/images/512/zp7VNaf9Lq0dcrwQChIt8CkOE.png" : {
+      "sha1" : "oj2pVk8Ph+6/UOcX36kTsVV6kek=",
+      "size" : 102458
+    },
+    ".cache/images/1024/0rmQb8Tph0Yi4IBi4chd2l95Slw.png" : {
+      "sha1" : "BQ3MuBsxWVKmlRTjcaLR4c9Pf9c=",
+      "size" : 260210
+    },
+    ".cache/images/1024/F6495OK5xRT1LfWPeIiDjT3plY.png" : {
+      "sha1" : "FiI/x+JgahEoliB6YaiMIvD+Dw0=",
+      "size" : 323133
+    },
+    ".cache/images/1024/lRxumXkcsmHN9ACLVup0GcKokc.png" : {
+      "sha1" : "IhpxJq+6Rn8qi8h8iZtfNWz6jrs=",
+      "size" : 288274
+    },
+    ".cache/images/1024/zp7VNaf9Lq0dcrwQChIt8CkOE.png" : {
+      "sha1" : "xOVspCN7cmKjcZIC4GGf4xKlNp8=",
+      "size" : 234435
+    },
+    ".yarnignore" : {
+      "sha1" : "SjOjLrZ6naANd4Um5YZ+asHhTTg=",
+      "size" : 53
+    },
+    "build/Draft.css" : {
+      "sha1" : "EAhzGU2fx321Jor9Yku/eL05a9w=",
+      "size" : 4279
+    },
+    "build/framer.js" : {
+      "sha1" : "JdkAWwV1wgTSNm4gOvvzPl5ct8s=",
+      "size" : 519494
+    },
+    "build/index.js" : {
+      "sha1" : "dnMw2oFmkIWLpC0xcTn/zyRUS2g=",
+      "size" : 1211184
+    },
+    "build/react-dom.development.js" : {
+      "sha1" : "nQs4dfjb25VVDNzTtFfYbuF1KQY=",
+      "size" : 641575
+    },
+    "build/react.development.js" : {
+      "sha1" : "2q2WObxZivmxSruU7BgBgScrCw0=",
+      "size" : 59086
+    },
+    "build/standalone.js" : {
+      "sha1" : "MQL/Du7X6Qst9o/BLYVRHUs5iwo=",
+      "size" : 483542
+    },
+    "build/style.css" : {
+      "sha1" : "lzOuFbqKJ4GzByzKx/5sc3n4gKA=",
+      "size" : 4665
+    },
+    "code/App.tsx" : {
+      "sha1" : "dcVu6ly19+idK9MKOFRBUPj8ZNA=",
+      "size" : 1459
+    },
+    "code/canvas.tsx" : {
+      "sha1" : "XAWJ2Vc6zFl/c1ILjaRwb7ijf8Q=",
+      "size" : 179
+    },
+    "design/document.json" : {
+      "sha1" : "BwDAVH0DEZ8uGih5L+nneNTnmZM=",
+      "size" : 81890
+    },
+    "design/images/0rmQb8Tph0Yi4IBi4chd2l95Slw.png" : {
+      "sha1" : "0rmQb8Tph0Yi4IBi4chd2l95Slw=",
+      "size" : 207570
+    },
+    "design/images/F6495OK5xRT1LfWPeIiDjT3plY.png" : {
+      "sha1" : "F6495OK5xRT1LfWPeIiDjT3pl+Y=",
+      "size" : 296348
+    },
+    "design/images/lRxumXkcsmHN9ACLVup0GcKokc.png" : {
+      "sha1" : "lRxu+mXkcsmHN9ACLVup0GcKokc=",
+      "size" : 240513
+    },
+    "design/images/zp7VNaf9Lq0dcrwQChIt8CkOE.png" : {
+      "sha1" : "zp7VNaf9Lq0dcr+wQChIt8CkO+E=",
+      "size" : 193832
+    },
+    "images/cursors/touch-active.png" : {
+      "sha1" : "fYes+h/mpvrQ2z1kPVs0zEFuq5M=",
+      "size" : 2965
+    },
+    "images/cursors/touch-active@2x.png" : {
+      "sha1" : "IrXS4p49TPUF4VVjiAv5LzffmHE=",
+      "size" : 7792
+    },
+    "images/cursors/touch.png" : {
+      "sha1" : "ZR96UUIDd4QXZOPSsRSgZvDjWb4=",
+      "size" : 2912
+    },
+    "images/cursors/touch@2x.png" : {
+      "sha1" : "RiwOB1M8Lzb2/NU+mdjR1VBhicM=",
+      "size" : 8384
+    },
+    "index.html" : {
+      "sha1" : "eyQifOYBwcqA4nB/EDlYTzDp7Rs=",
+      "size" : 1256313
+    },
+    "package.json" : {
+      "sha1" : "e7W/H/oUKj32wJC/YjbjQ5w2ABY=",
+      "size" : 429
+    },
+    "README.md" : {
+      "sha1" : "2jmj7l5rSw0yVb/vlWAYkK/YBwk=",
+      "size" : 0
+    },
+    "tsconfig.json" : {
+      "sha1" : "aDUBWFOOLiSHozHi3fLJW+KdiYY=",
+      "size" : 277
+    },
+    "yarn-error.log" : {
+      "sha1" : "sz+UgpLYpmsgka6M7Lhc1y0s5I4=",
+      "size" : 2474
+    },
+    "yarn.lock" : {
+      "sha1" : "5vSyH9KgBAfbzqiciw3u97rP2Jk=",
+      "size" : 30677
+    }
+  },
+  "uuid" : "EB9C677F-F051-4DDF-9C1E-D69C14688E32"
+}
